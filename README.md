@@ -3,7 +3,9 @@
 A classic Tetris game built from scratch in **C++** using the **raylib** graphics library — featuring all 7 standard tetrominoes, rotation, line clearing, scoring, and a next-piece preview.
 
 ## Screen Shots
+![Game Play](ScreenShots/Gameplay.png)
 
+![Game Over](ScreenShots/GameOver.png)
 
 ## video Recording Game
 
